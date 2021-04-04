@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <section className={classes.hero}>
       <div className={classes.image}>
-        <Image src="/images/site/din.png" alt="salahuddin" width={300} height={300} />
+        <Image src="/images/site/din.png" alt="salahuddin" width={330} height={330} />
       </div>
       <h1>Hi, I`m Din</h1>
       <p>

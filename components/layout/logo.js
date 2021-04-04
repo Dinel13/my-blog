@@ -1,7 +1,4 @@
-export default function logo() {
-    return (
-        <div>
-            
-        </div>
-    )
+import classes from "./logo.module.css";
+export default function Logo() {
+  return <div className={classes.logo}>Din's Next Blog</div>;
 }
